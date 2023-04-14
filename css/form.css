@@ -477,6 +477,10 @@ section.sectionsHead.navbar-default.render {
     background-color: white !important;
 }
 
+li.sectionNameWrapper:empty {
+    display: none;
+}
+
 /*Added by Merizza on 31/12/2020*/
 li.sectionNameWrapper {
     margin-right: 8px;
