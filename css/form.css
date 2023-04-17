@@ -1343,3 +1343,7 @@ label.prefix, span.prefix {
 .checkbox-wrapper .checkbox-label {
     padding: 10px 0 0 40px !important;
 }
+
+span.checkbox-wrapper:has(input:not(:checked)) {
+    display: none !important
+}
