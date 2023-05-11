@@ -1164,7 +1164,7 @@ label.prefix, span.prefix {
     border: 0px !important;
 }
 
-.checkbox-wrapper .checkbox-label {
+.product_self .achieveforms-container .all-sections .field .fieldContent fieldset.fieldInput .checkbox-wrapper .check2[disabled]:checked+label {
     padding: 10px 0 0 40px !important;
 }
 
